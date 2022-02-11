@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @sandlind
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Dylan Sandlin ###
+\[ [LinkedIn](https://linkedin.com/dylansandlin) \] 
 
-<!---
-sandlind/sandlind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### What I do: ####
+- PHP / HTML / CSS / SQL
+- Some JavaScript...
+- mySQL, sqlite, mongodb
+- Debian/Linux servers
+- Minecraft servers
+
+#### Projects I work on: ####
+- Textboard
+- Robot test / CAPTCHA
+- Analytical API
+- PHP static webpage generator
+- My Minecraft server
