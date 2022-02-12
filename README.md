@@ -1,8 +1,5 @@
 ### Dylan Sandlin ###
-\[ [LinkedIn](https://linkedin.com/dylansandlin) \] 
-
-February 11, 2022:
-> I only made this Github account today. I have made several projects over the past couple of years. Many of them will be uploaded soon.
+\[[LinkedIn](https://linkedin.com/dylansandlin)\] \[[Personal website](https://dylansandlin.com)\]
 
 #### What I do: ####
 - PHP / HTML / CSS / SQL
